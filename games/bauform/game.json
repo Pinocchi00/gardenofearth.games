@@ -1,0 +1,54 @@
+{
+  "slug": "bauform",
+  "kind": "game",
+  "order": 1,
+  "name": "Bauform",
+  "subtitle": "Block Puzzle",
+  "status": "coming-soon",
+  "platforms": [
+    { "id": "android", "store": "Google Play", "url": null }
+  ],
+  "theme": { "accent": "#AE3622", "paper": "#E8DFCD", "ink": "#141414", "soft": "#C1BAAE" },
+  "icon": "icon.png",
+  "poster": "poster.png",
+  "feature": { "fr": "feature-fr.png", "en": "feature-en.png" },
+  "screenshots": [
+    { "src": "screens/01-puzzle.png", "fr": "Une pièce complète une silhouette géométrique.", "en": "Blocks fill a geometric outline." },
+    { "src": "screens/02-composition.png", "fr": "La composition s'agrandit au fil des formes.", "en": "A composition grows with each completed shape." },
+    { "src": "screens/03-affiche.png", "fr": "L'affiche de fin de partie et son score.", "en": "The completed poster and final score." },
+    { "src": "screens/04-plein-ecran.png", "fr": "La composition affichée en plein écran.", "en": "The composition in full-screen view." }
+  ],
+  "privacyUpdated": "2026-10-17",
+  "fr": {
+    "tagline": "Remplissez les formes. Composez une affiche.",
+    "short": "Un puzzle de blocs inspiré du Bauhaus : chaque forme remplie devient un morceau de votre affiche.",
+    "facts": ["Gratuit", "Sans publicité", "Sans achat intégré", "Hors ligne"],
+    "description": [
+      "Dans Bauform, chaque forme complétée devient un élément de votre composition. Glissez les pièces dans la silhouette, choisissez leurs emplacements et regardez les couleurs s'assembler, une forme après l'autre.",
+      "Le cercle, le triangle et le rectangle prennent place dans une affiche inspirée du Bauhaus. Rouge profond, bleu, jaune et noir : une palette sobre, des lignes nettes et le plaisir de voir apparaître une composition au fil de la partie."
+    ],
+    "features": [
+      ["Prenez le temps", "Trois pièces à disposition, aucun chronomètre. Anticipez les espaces restants pour aller plus loin."],
+      ["Gardez votre affiche", "À la fin, admirez votre composition en plein écran et partagez-la en image."],
+      ["Reprenez où vous étiez", "La partie en cours est enregistrée : fermez l'appli, elle vous attend."],
+      ["Jouez partout", "Hors ligne, sans compte, avec sons et vibrations réglables."]
+    ],
+    "note": "Interface du jeu en français."
+  },
+  "en": {
+    "tagline": "Fill the shapes. Compose a poster.",
+    "short": "A Bauhaus-inspired block puzzle: every completed shape becomes part of your poster.",
+    "facts": ["Free", "No ads", "No in-app purchases", "Offline"],
+    "description": [
+      "In Bauform, each completed shape becomes part of your composition. Drag blocks into the outline, choose their positions and watch the colours come together, one shape at a time.",
+      "Circles, triangles and rectangles form a poster inspired by the Bauhaus. Deep red, blue, yellow and black meet clean lines in a composition that grows as you play."
+    ],
+    "features": [
+      ["Take your time", "Three pieces to choose from, no countdown. Plan around the remaining spaces to go further."],
+      ["Keep your poster", "At the end, view your composition full screen and share it as an image."],
+      ["Pick up where you left off", "Your game is saved: close the app and it will be waiting for you."],
+      ["Play anywhere", "Offline, no account, with optional sound and vibration."]
+    ],
+    "note": "The game interface is currently in French."
+  }
+}

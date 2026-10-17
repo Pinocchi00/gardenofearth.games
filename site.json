@@ -1,0 +1,34 @@
+{
+  "domain": "gardenofearth.games",
+  "url": "https://gardenofearth.games",
+  "name": "Garden of Earth",
+  "publisher": "Garden of Earth Game",
+  "email": "contact@gardenofearth.games",
+  "since": 2026,
+  "fr": {
+    "tagline": "Des jeux et des applis cultivés avec soin.",
+    "intro": "Garden of Earth Game est un studio indépendant. Chaque projet commence comme une graine : une idée simple, travaillée patiemment jusqu'à devenir claire, belle et agréable à prendre en main.",
+    "about": [
+      "Nous faisons des jeux et des applications à taille humaine : faciles à comprendre, soignés dans le moindre détail, et qui respectent le temps et la vie privée de celles et ceux qui les utilisent.",
+      "Le premier, Bauform, transforme un puzzle de blocs en affiche inspirée du Bauhaus. D'autres pousseront ici, un projet après l'autre."
+    ],
+    "values": [
+      ["Simple", "On comprend en quelques secondes, on prend plaisir longtemps."],
+      ["Soigné", "Formes, couleurs, sons : chaque détail est pensé."],
+      ["Respectueux", "Pas de collecte inutile de données, pas de pièges pour retenir l'attention."]
+    ]
+  },
+  "en": {
+    "tagline": "Games and apps, grown with care.",
+    "intro": "Garden of Earth Game is an independent studio. Every project starts as a seed: a simple idea, patiently worked on until it becomes clear, beautiful and pleasant to use.",
+    "about": [
+      "We make games and apps on a human scale: easy to understand, carefully crafted down to the smallest detail, and respectful of their players' time and privacy.",
+      "The first, Bauform, turns a block puzzle into a Bauhaus-inspired poster. More will grow here, one project at a time."
+    ],
+    "values": [
+      ["Simple", "Understood in seconds, enjoyed for a long time."],
+      ["Crafted", "Shapes, colours, sounds: every detail is considered."],
+      ["Respectful", "No unnecessary data collection, no tricks to hold your attention."]
+    ]
+  }
+}
